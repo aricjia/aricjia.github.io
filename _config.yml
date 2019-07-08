@@ -8,7 +8,7 @@ subtitle: 一个只想Coding的产品运营
 description: 我是一个互联网公司小运营，本博客会记录运营工作的心得体会，同时分享自己学习技术的经历作为学习日记。
 keywords: 产品运营 技术学习
 author: aricjia
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
